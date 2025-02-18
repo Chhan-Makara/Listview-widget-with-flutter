@@ -1,16 +1,5 @@
-# listview_widget_flutter
+Here is exercise of Listview widget with flutter. You can check my code here
 
-A new Flutter project.
+![Screenshot 2025-02-18 140838](https://github.com/user-attachments/assets/33c3d4a1-f1ed-4dbb-8314-b58f35138dd5)
+![Screenshot 2025-02-18 140859](https://github.com/user-attachments/assets/ea766f1d-c7e5-4dd4-874c-50f9ff9c3c6b)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
